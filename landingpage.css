@@ -524,6 +524,10 @@ width: 60vw
   .pricing h3{
     font-size: 20px;
   }
+
+  footer{
+    display:block;
+  }
 }
 
 @media only screen and (max-width:500px){
